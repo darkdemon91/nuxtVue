@@ -1,0 +1,2 @@
+# nuxtVue
+Nuxt/Vue project
